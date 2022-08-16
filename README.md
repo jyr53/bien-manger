@@ -1,2 +1,2 @@
 # bien-manger
-debut de site de rectte de cuisine
+debut de site de recette de cuisine
